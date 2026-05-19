@@ -12,6 +12,7 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
+
 import com.squareup.picasso.Picasso
 import mx.itson.cheemstour.entities.Trip
 import mx.itson.cheemstour.entities.Weather
@@ -24,7 +25,7 @@ import java.text.SimpleDateFormat
 import java.util.Date
 import java.util.Locale
 import java.util.TimeZone
-import mx.itson.cheemstour.BuildConfig
+
 
 
 class TripDetailActivity : AppCompatActivity() {

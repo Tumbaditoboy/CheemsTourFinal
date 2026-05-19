@@ -67,7 +67,7 @@ class TripMapActivity : AppCompatActivity(), OnMapReadyCallback {
                     }
                 }
             }
-
+            // llamada lista generico
             override fun onFailure(call: Call<List<Trip>>, t: Throwable) {
                 Log.e("Error API", t.message.toString())
             }
