@@ -26,6 +26,7 @@ import java.util.Locale
 import java.util.TimeZone
 import mx.itson.cheemstour.BuildConfig
 
+
 class TripDetailActivity : AppCompatActivity() {
 
     private lateinit var trip: Trip
