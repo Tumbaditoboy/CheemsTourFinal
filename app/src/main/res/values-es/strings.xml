@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CheemsTour</string>
+    <string name="open_form">Agregar ubicación</string>
+    <string name="trip_details">Detalles del viaje</string>
+    <string name="view_map">Ver mapa</string>
+    <string name="form_name">Nombre:</string>
+    <string name="form_city">Ciudad:</string>
+    <string name="form_latitude">Latitud:</string>
+    <string name="form_longitude">Longitud:</string>
+    <string name="btn_save">Guardar</string>
+    <string name="place_name">Nombre del destino</string>
+    <string name="city_state">Ciudad</string>
+    <string name="loading_weather">Cargando clima...</string>
+    <string name="edit_btn">Editar información</string>
+    <string name="delete_btn">Eliminar</string>
+    <string name="humidity_txt">Humedad:</string>
+    <string name="wind_txt">Viento:</string>
+    <string name="temp_max">Máx:</string>
+    <string name="temp_min">Mín:</string>
+    <string name="humidity">Humedad:</string>
+    <string name="wind">Viento:</string>
+    <string name="local_time">Hora local:</string>
+    <string name="sunrise_txt">Amanecer:</string>
+    <string name="sunset_txt">Atardecer:</string>
+    <string name="data_unvalid_form">Datos inválidos</string>
+    <string name="save_msg">Guardado correctamente</string>
+    <string name="update_msg">Actualizado</string>
+    <string name="drag_msg">Arrástrame :D</string>
+    <string name="update_btn">Actualizar cambios</string>
+    <string name="location_set_msg">Ubicación fijada</string>
+    <string name="weather_not_available">Clima no disponible</string>
+    <string name="north_wind">Norte</string>
+    <string name="wind_northeast">Noreste</string>
+    <string name="wind_east">Este</string>
+    <string name="wind_southeast">Sureste</string>
+    <string name="wind_south">Sur</string>
+    <string name="wind_southwest">Suroeste</string>
+    <string name="wind_west">Oeste</string>
+    <string name="wind_northwest">Noroeste</string>
+    <string name="trip_canceled_msg">Viaje eliminado</string>
+    <string name="not_deleted">No se pudo eliminar :(</string>
+    <string name="sunrise">Amanecer:</string>
+    <string name="sunset">Atardecer:</string>
+</resources>

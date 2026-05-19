@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="@drawable/formulariocheems"
+    tools:context=".TripFormActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/form_name"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:textColor="#1c4052"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="6dp" />
+
+    <EditText
+        android:id="@+id/text_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="18dp"
+        android:padding="12dp"
+        android:background="@android:drawable/edit_text"
+        android:inputType="text"
+        android:backgroundTint="@android:color/white"
+        android:textColor="@android:color/black"
+        android:textColorHint="#808080" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/form_city"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:textColor="#1c4052"
+        android:layout_marginBottom="6dp" />
+
+    <EditText
+        android:id="@+id/text_city"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="18dp"
+        android:padding="12dp"
+        android:background="@android:drawable/edit_text"
+        android:inputType="text"
+        android:backgroundTint="@android:color/white"
+        android:textColor="@android:color/black"
+        android:textColorHint="#808080" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/form_latitude"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:textColor="#1c4052"
+        android:layout_marginBottom="6dp" />
+
+    <EditText
+        android:id="@+id/text_latitude"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="18dp"
+        android:padding="12dp"
+        android:background="@android:drawable/edit_text"
+        android:inputType="text"
+        android:backgroundTint="@android:color/white"
+        android:textColor="@android:color/black"
+        android:textColorHint="#808080" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/form_longitude"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:textColor="#1c4052"
+        android:layout_marginBottom="6dp" />
+
+    <EditText
+        android:id="@+id/text_longitude"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        android:padding="12dp"
+        android:background="@android:drawable/edit_text"
+        android:inputType="text"
+        android:backgroundTint="@android:color/white"
+        android:textColor="@android:color/black"
+        android:textColorHint="#808080" />
+
+    <Button
+        android:id="@+id/btn_save"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:padding="14dp"
+        android:text="@string/btn_save"
+        android:textStyle="bold"
+        android:textSize="16sp"
+        android:backgroundTint="#1c4052"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>

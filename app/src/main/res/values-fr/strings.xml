@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CheemsTour</string>
+    <string name="view_map">Voir la carte</string>
+    <string name="form_name">Nom:</string>
+    <string name="form_city">Ville:</string>
+    <string name="form_latitude">Latitude:</string>
+    <string name="form_longitude">Longitude:</string>
+    <string name="btn_save">Enregistrer</string>
+    <string name="open_form">Ajouter un lieu</string>
+    <string name="trip_details">Détails du voyage</string>
+    <string name="place_name">Nom de la destination</string>
+    <string name="city_state">Ville</string>
+    <string name="loading_weather">Chargement des prévisions météo...</string>
+    <string name="edit_btn">Modifier les informations</string>
+    <string name="delete_btn">Supprimer</string>
+    <string name="humidity_txt">Humidité:</string>
+    <string name="wind_txt">Vent:</string>
+    <string name="local_time">Heure locale :</string>
+    <string name="sunrise_txt">Lever du soleil:</string>
+    <string name="sunset_txt">Coucher de soleil:</string>
+    <string name="data_unvalid_form">Données non valides:</string>
+    <string name="save_msg">Enregistrer</string>
+    <string name="update_msg">Mise à jour</string>
+    <string name="drag_msg">Fais-moi glisser :D</string>
+    <string name="update_btn">Mise à jour</string>
+    <string name="location_set_msg">Lieu défini</string>
+    <string name="weather_not_available">Données météorologiques indisponibles</string>
+    <string name="north_wind">Nord</string>
+    <string name="wind_northeast">Nord-Est</string>
+    <string name="wind_east">Est</string>
+    <string name="wind_southeast">Sud-Est</string>
+    <string name="wind_south">Sud</string>
+    <string name="wind_southwest">Sud-Ouest</string>
+    <string name="wind_west">Ouest</string>
+    <string name="wind_northwest">Nord-Ouest</string>
+    <string name="trip_canceled_msg">Voyage supprimé</string>
+    <string name="not_deleted">Il n\'a pas pu être supprimé :(</string>
+    <string name="temp_max">Min:</string>
+    <string name="temp_min">Max:</string>
+    <string name="humidity">Humidité:</string>
+    <string name="wind">Vent:</string>
+    <string name="sunrise">Lever du soleil:</string>
+    <string name="sunset">Coucher de soleil:</string>
+</resources>
